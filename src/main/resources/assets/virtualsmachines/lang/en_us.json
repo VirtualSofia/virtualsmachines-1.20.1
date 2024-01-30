@@ -1,0 +1,35 @@
+{
+  "item.virtualsmachines.ruby": "Ruby",
+
+
+
+
+
+  "item.virtualsmachines.tin_ingot": "Tin Ingot",
+
+
+
+
+  "item.virtualsmachines.raw_tin": "Raw Tin",
+
+
+
+
+
+
+  "block.virtualsmachines.ruby_ore": "Ruby Ore",
+  "block.virtualsmachines.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.virtualsmachines.nether_ruby_ore": "Nether Ruby Ore",
+
+
+
+
+
+
+  "block.virtualsmachines.ruby_block": "Ruby Block",
+
+
+
+
+  "itemgroup.virtuals_machines": "Virtual's Machines"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "virtualsmachines:block/nether_ruby_ore"
+    }
+  }
+}

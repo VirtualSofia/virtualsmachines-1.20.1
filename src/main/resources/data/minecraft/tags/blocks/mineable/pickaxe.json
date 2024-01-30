@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+      "virtualsmachines:ruby_block",
+      "virtualsmachines:ruby_ore",
+      "virtualsmachines:deepslate_ruby_ore",
+      "virtualsmachines:nether_ruby_ore"
+
+  ]
+}

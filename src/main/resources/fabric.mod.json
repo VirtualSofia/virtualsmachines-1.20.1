@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "virtualsmachines",
+	"version": "${version}",
+	"name": "Virtual's Machines",
+	"description": "A basic machine tech mod I'm making as I learn to mod",
+	"authors": [
+		"VirtualSofia"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/virtualsmachines/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.virtualsofia.virtualsmachines.VirtualsMachines"
+		],
+		"client": [
+			"net.virtualsofia.virtualsmachines.VirtualsMachinesClient"
+		],
+		"fabric-datagen": [
+			"net.virtualsofia.virtualsmachines.VirtualsMachinesDataGenerator"
+		]
+	},
+	"mixins": [
+		"virtualsmachines.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
